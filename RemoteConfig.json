@@ -1,8 +1,8 @@
 {
   "packageName": "nostalgia.nes.lover",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "forceUpdateContent": "GAME is removed on store!\nSupport us and PLAY MORE GAMES\nin new version!",
-  "forceUpdateUrl": "market://details?id=bomb.man.retro.cv6",
+  "forceUpdateUrl": "market://details?id=bros.run.classic.world",
   "checkClone": false,
   "reviewVersion": -1,
   "showNESGamesTimeDelay": 0,
